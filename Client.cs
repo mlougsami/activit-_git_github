@@ -20,5 +20,6 @@ namespace PremierPasLINQ
         public Nullable<int> Age { get; set; }
         public string Sexe { get; set; }
 	public string Adresse {get; set;}
+	public int Score {get ;set;} 
     }
 }
